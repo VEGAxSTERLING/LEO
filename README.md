@@ -171,8 +171,8 @@ Contributions welcome! Submit issues and pull requests on GitHub.
 
 **Vega Sterling**
 
-- Cybersecurity Enthusiast & Educator
-- Security Content Creator (Dev.to, Medium)
+- Cybersecurity Researcher | Pentester | Open-Source Developer
+- Security Content Creator (Linkedin, Medium, Quora)
 - Mission: Spreading cybersecurity awareness through education
 
 ### Connect with me:
