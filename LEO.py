@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Hash Cracker (LEO) - Password Recovery Tool (Enhanced)
-Author: NightmareLynx
+Author: VEGAxSTERLING
 Purpose: Ethical penetration testing and security research
 License: Educational and authorized security testing only
 """
