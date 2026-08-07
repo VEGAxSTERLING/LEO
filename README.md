@@ -1,4 +1,4 @@
-![image alt](https://github.com/NightmareLynx/LEO/blob/31e926d37ec080ee57b004b49da77b2eedff2efa/Banner.jpg)
+![image alt](https://github.com/VEGAxSTERLING/LEO/blob/31e926d37ec080ee57b004b49da77b2eedff2efa/Banner.jpg)
 ===========================================================================================================
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 **Password Recovery & Security Testing Tool**
 
-*by NightmareLynx | Ethical Hacking & Cybersecurity*
+*by VEGAxSTERLING | Ethical Hacking & Cybersecurity*
 
 </div>
 
@@ -33,7 +33,7 @@ LEO is a high-performance password recovery tool designed for ethical penetratio
 
 ```bash
 # Installation
-git clone https://github.com/NightmareLynx/LEO.git
+git clone https://github.com/VEGAxSTERLING/LEO.git
 cd LEO
 
 # Optional dependencies
@@ -167,12 +167,19 @@ Contributions welcome! Submit issues and pull requests on GitHub.
 
 ---
 
-## Contact
+## Author
 
-**Developer**: NightmareLynx
-**Focus**: Ethical Hacking & Cybersecurity
+**Vega Sterling**
 
-Find me on and Medium, Quora, And Linkedin for cybersecurity articles and tutorials.
+- Cybersecurity Enthusiast & Educator
+- Security Content Creator (Dev.to, Medium)
+- Mission: Spreading cybersecurity awareness through education
+
+### Connect with me:
+
+- Linkedin: [@VEGA STERLING](https://www.linkedin.com/in/vega-sterling-a91163343/)
+- Quora: [@VEGA STERLING](https://www.quora.com/profile/Vega-Sterling-2)
+- Medium: [@VEGA STERLING](https://vega-sterling.medium.com/)
 
 ---
 
@@ -181,7 +188,7 @@ Find me on and Medium, Quora, And Linkedin for cybersecurity articles and tutori
 Educational Use License - For authorized security testing only.
 
 ```
-Copyright (c) 2025 NightmareLynx
+Copyright (c) 2025 VEGAxSTERLING
 Provided "AS IS" without warranty.
 Unauthorized use is prohibited.
 ```
